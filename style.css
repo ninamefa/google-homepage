@@ -53,7 +53,6 @@ height: 700px;
 clear: both; 
 margin: auto;
 width: 50%; 
-/*border: 1px solid black;*/
 overflow: auto;
 }
 
@@ -61,19 +60,19 @@ overflow: auto;
   height: 400px;
   padding-top: 200px;
   width: 70%; 
-  /*border: 1px solid black;*/
+
   margin: auto;  
 }
 
 #logo {
-  /*border: 1px solid green;*/
+
   width: 272px;
   height: 100px;
   margin: auto;
 }
  
 #search {
-  /*border: 1px solid black;*/
+ 
 }
 
 #search textarea {
@@ -82,10 +81,11 @@ overflow: auto;
   border-radius: 25px;
   margin-left: auto;
   margin-right: auto;
+  overflow: auto;
 }
 
 #search-buttons {
-  /*border: 1px solid blue;*/
+  
   width: 50%;
   margin: auto;
   list-style-type: none;
