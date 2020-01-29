@@ -1,0 +1,160 @@
+
+
+.left-scrn ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+.left-scrn ul li {
+float: left;
+display: block;
+padding: 8px;
+}
+
+.right-scrn {
+float: right;
+}
+
+.right-scrn ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+.right-scrn ul li {
+float: left;
+display: block;
+padding: 8px;
+}
+
+.button {}
+
+#blue {
+background-color: #4285f4;
+border-color: #4285f4;
+outline: none;
+border-radius: 3px;
+color: #fff;
+padding: 5px 16px;
+font-weight: bold;
+cursor:pointer;
+}
+
+nav {
+}
+
+main {
+height: 700px;
+clear: both; 
+margin: auto;
+width: 50%; 
+overflow: auto;
+}
+
+.content {
+  height: 400px;
+  padding-top: 200px;
+  width: 70%; 
+
+  margin: auto;  
+}
+
+#logo {
+
+  width: 272px;
+  height: 100px;
+  margin: auto;
+}
+ 
+#search {
+ 
+}
+
+#search textarea {
+    background-color: transparent
+    width: 450px;
+    height: 40px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+    line-height: 34px;
+    font-size: 16px;
+}
+
+#search-buttons {
+  
+  width: 50%;
+  margin: auto;
+  list-style-type: none;
+  
+}
+
+#search-buttons button { 
+  padding: 5px 16px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  color: #5F6368;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  list-style-type: none;
+  cursor:pointer;
+}
+
+#icons {
+  z-index: 1;
+  /*border: 1px solid red;*/
+  position: fixed;
+  top: 405px;
+  left: 620px;
+  width: 620px;
+}
+
+#left-icon {
+  height: 35px;
+  width: 40px;
+  float: left;
+}
+
+#right-icon {
+  height: 35px;
+  width: 40px;
+  float: right;
+}
+
+footer {
+position: fixed;
+width: 100%;
+bottom: 0; 
+}
+
+li a {
+font-family: arial,sans-serif;
+text-decoration: none;
+font-size: 14px;
+color: #5F6368;
+}
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
