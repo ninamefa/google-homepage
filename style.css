@@ -46,6 +46,17 @@ html{
   padding: 8px;
   }
 
+  .blue {
+    background-color: #4285f4;
+    border-color: #4285f4;
+    outline: none;
+    border-radius: 3px;
+    color: #fff;
+    padding: 3px 16px;
+    font-weight: bold;
+    cursor:pointer;
+    }
+
 .content {
   height: 400px;
   padding-top:141px;
